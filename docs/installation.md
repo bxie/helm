@@ -35,6 +35,8 @@ Within this virtual environment, run:
 pip install crfm-helm
 ```
 
+_For MacOS users_: Install wget with a package manager other than pip, such as [brew](https://brew.sh/) (e.g. `brew install wget`).
+
 ## Install Multimodal Support
 
 Additional steps are required for multimodal evaluations:
